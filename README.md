@@ -1,2 +1,2 @@
 # Certificates
-My certificates
+Сертификати
